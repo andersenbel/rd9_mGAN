@@ -1,0 +1,40 @@
+Model: checkpoints/generator_epoch_1.pth
+Average PSNR: 17.7542, Average SSIM: 0.7887
+Model: checkpoints/generator_epoch_1.pth
+Average PSNR: 17.0774, Average SSIM: 0.7358
+Model: checkpoints/generator_epoch_2.pth
+Average PSNR: 14.6742, Average SSIM: 0.8208
+Model: checkpoints/generator_epoch_3.pth
+Average PSNR: 20.4407, Average SSIM: 0.8779
+Model: checkpoints/generator_epoch_4.pth
+Average PSNR: 21.9623, Average SSIM: 0.8983
+Model: checkpoints/generator_epoch_5.pth
+Average PSNR: 19.8347, Average SSIM: 0.7995
+Model: checkpoints/generator_epoch_6.pth
+Average PSNR: 21.8963, Average SSIM: 0.9183
+Model: checkpoints/generator_epoch_7.pth
+Average PSNR: 23.6993, Average SSIM: 0.9534
+Model: checkpoints/generator_epoch_8.pth
+Average PSNR: 22.6363, Average SSIM: 0.9324
+Model: checkpoints/generator_epoch_9.pth
+Average PSNR: 24.5552, Average SSIM: 0.9312
+Model: checkpoints/generator_epoch_1.pth
+Average PSNR: 17.4899, Average SSIM: 0.7337
+Model: checkpoints/generator_epoch_10.pth
+Average PSNR: 22.3043, Average SSIM: 0.9427
+Model: checkpoints/generator_epoch_2.pth
+Average PSNR: 14.7227, Average SSIM: 0.8234
+Model: checkpoints/generator_epoch_3.pth
+Average PSNR: 20.4272, Average SSIM: 0.8914
+Model: checkpoints/generator_epoch_4.pth
+Average PSNR: 22.0976, Average SSIM: 0.9126
+Model: checkpoints/generator_epoch_5.pth
+Average PSNR: 18.8058, Average SSIM: 0.7790
+Model: checkpoints/generator_epoch_6.pth
+Average PSNR: 20.8179, Average SSIM: 0.9182
+Model: checkpoints/generator_epoch_7.pth
+Average PSNR: 23.3236, Average SSIM: 0.9427
+Model: checkpoints/generator_epoch_8.pth
+Average PSNR: 22.7589, Average SSIM: 0.9459
+Model: checkpoints/generator_epoch_9.pth
+Average PSNR: 23.6007, Average SSIM: 0.9342

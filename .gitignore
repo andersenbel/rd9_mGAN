@@ -1,0 +1,56 @@
+# Ігнорування віртуального середовища
+_env/
+.venv/
+venv/
+data/
+
+
+# Кеш файли Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Файли логів
+*.log
+
+# Результати тестів
+*.out
+*.err
+
+# Системні файли IDE та OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Файли моделі
+*.pth
+*.pt
+*.bin
+
+# Результати роботи
+results/model/
+results/plots/
+# results/*.png
+# results/results.txt
+
+# Директорія з даними
+datasets/
+data/tokenized/
+*.gz
+cifar-10-batches-py
+
+# Файли середовища
+.env
+
+# Великі або тимчасові файли
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Файли конфігурації IDE
+dz6.code-workspace
